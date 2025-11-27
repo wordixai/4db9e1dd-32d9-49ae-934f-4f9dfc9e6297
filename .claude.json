@@ -1,0 +1,36 @@
+{
+  "installMethod": "unknown",
+  "autoUpdates": true,
+  "cachedStatsigGates": {
+    "tengu_disable_bypass_permissions_mode": false,
+    "tengu_tool_pear": false,
+    "tengu_web_tasks": true
+  },
+  "firstStartTime": "2025-11-27T03:40:35.497Z",
+  "userID": "2e3639a4fc2cce82f0c2f999e8d0c6315a92d4cd65d531878b73ab81e01e931a",
+  "sonnet45MigrationComplete": true,
+  "opus45MigrationComplete": true,
+  "projects": {
+    "/app": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [
+        "I don't have any file modification data to analyze. The lists provided are empty, so I cannot identify frequently modified files representing core application logic.",
+        "",
+        "Please provide:",
+        "1. A list of files with modification counts for files modified by the user",
+        "2. A list of files with modification counts for files modified by other users",
+        "",
+        "Once you provide this data, I'll return exactly five filenames that meet your criteria."
+      ],
+      "exampleFilesGeneratedAt": 1764214838769
+    }
+  }
+}
